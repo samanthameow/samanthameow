@@ -14,4 +14,4 @@ jobs:
         git config --global user.name "github actions"
         git config --global user.email "none"
         nix develop --command mkdocs gh-deploy
-        permissions: write-all
+permissions: write-all
