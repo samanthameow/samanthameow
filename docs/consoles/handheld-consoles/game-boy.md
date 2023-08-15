@@ -26,7 +26,7 @@ Released on April 21, 1989
 
 #### IPS Mod
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OUuLdxbWCvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDmJ1IJG_Zo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----
 
