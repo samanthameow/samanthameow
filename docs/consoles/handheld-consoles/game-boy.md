@@ -1,9 +1,6 @@
 # Game Boy (DMG-01)
 
-Released in:
-- JP: April 21, 1989
-- NA: July 31, 1989
-- EU: September 28, 1990
+Released in April 21, 1989 (JP), July 31, 1989 (NA), September 28, 1990 (EU)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/1689px-Game-Boy-FL.png" style="width: 400px;">
