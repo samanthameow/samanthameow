@@ -10,10 +10,15 @@
   - Dimensions: 148 x 90 x 32 mm
   - Weight: 220g
 
+----
+
 ### Mods
 
 ##### IPS Mod
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUuLdxbWCvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ##### Backlight Bivert Mod
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-jXil6uLJH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
