@@ -30,6 +30,12 @@ Released on July 21, 1996
 
 ----
 
+#### Colour Mod
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smx7hN2FqKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
+
 #### Backlight Bivert Mod
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-jXil6uLJH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAoFNnsCR24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
