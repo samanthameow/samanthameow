@@ -1,5 +1,7 @@
 # Game Boy (DMG-01)
 
+----
+
 Released in April 21, 1989 (JP), July 31, 1989 (NA), September 28, 1990 (EU)
 
 
