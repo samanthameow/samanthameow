@@ -24,18 +24,30 @@ Released on July 21, 1996
 
 ----
 
-#### IPS Mod
+#### IPS Screen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3U_VSqRkstE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----
 
-#### Colour Mod
+#### Colour IPS Screen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/smx7hN2FqKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ----
 
-#### Backlight Bivert Mod
+#### Backlight Bivert
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vAoFNnsCR24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
+
+#### USB-C Rechargable Battery
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpK9g2zkA64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----
+
+#### Wireless Rechargable Battery
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Fc_6IQlMVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
