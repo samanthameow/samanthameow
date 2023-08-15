@@ -1,20 +1,29 @@
 # Game Boy (DMG-01)
 
+Released in:
+- JP: April 21, 1989
+- NA: July 31, 1989
+- EU: September 28, 1990
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/1689px-Game-Boy-FL.png" style="width: 400px;">
+
 ### Specs
-|||
-|-----|---------------|
-| CPU | 8 Bit 4.19 MHz|
-| RAM | 8 KB |
-| Screen type | LCD |
-| Screen size | 47 x 43 mm |
-| Screen resolution | 160 x 144 pixels |
-| Power | 4x AA batteries |
-| Dimensions | 148 x 90 x 32 mm |
-| Weight | 220g |
+
+- CPU: 8 Bit 4.19 MHz
+- RAM: 8 KB
+- Screen type: LCD
+- Screen size: 47 x 43 mm
+- Screen resolution: 160 x 144 pixels
+- Power: 4x AA batteries
+- Dimensions: 148 x 90 x 32 mm
+- Weight: 220g
 
 &nbsp;
 
 ### Mods
+
+----
 
 #### IPS Mod
 
