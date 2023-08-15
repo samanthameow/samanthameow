@@ -11,7 +11,7 @@ Released in April 21, 1989 (JP), July 31, 1989 (NA), September 28, 1990 (EU)
 
 - CPU: 8 Bit 4.19 MHz
 - RAM: 8 KB
-- Screen type: LCD (no backlight or colour)
+- Screen type: LCD (no backlight)
 - Screen size: 47 x 43 mm
 - Screen resolution: 160 x 144 pixels
 - Power: 4x AA batteries
