@@ -1,8 +1,8 @@
-# Game Boy Pocket (MGB-001)
+# Game Boy Color (CGB-001)
 
 ----
 
-Released on July 21, 1996
+Released on October 21, 1998
 
 
 <img src="https://www.serebii.net/games/consoles/gameboycolor.png" style="width: 400px;">
